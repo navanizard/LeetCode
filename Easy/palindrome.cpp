@@ -2,9 +2,12 @@
 LeetCode: Problem 9: Palindrome Number
 Difficulty Level: Easy
 Name: Nava Nizard
-Date: May 9, 2025.
+Date: May 9, 2025
+Programming Language: C++
 Instructions: Given an integer x, return true if x is a palindrome, and false otherwise. (A palindrome 
     number is a number that reads the same from left to right as from right to left.)
+Approach: Typecast the integer to a string, have  two indices (pointers) from both ends of the string
+    and see if they're equal.
 */
 
 class Solution {
