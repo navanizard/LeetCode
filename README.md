@@ -2,10 +2,6 @@
 
 This repository contains my solutions to various LeetCode problems. The solutions are written in **C++**. The goal is to improve my problem-solving skills and share my learning process with others.
 
-## Table of Contents 📚
-
-- [Problem List](#problem-list)
-- [How to Run Solutions](#how-to-run-solutions)
 
 ## Problem List 📝
 
