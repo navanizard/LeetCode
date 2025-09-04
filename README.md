@@ -7,9 +7,9 @@ This repository contains my solutions to various LeetCode problems. The solution
 
 This section will contain links to the problems I've solved, categorized by difficulty and topic.
 
-1. [Easy Problems 🟢](#easy-problems)
-2. [Medium Problems 🟠](#medium-problems)
-3. [Hard Problems 🔴](#hard-problems)
+1. [Easy Problems 🟢](./Easy)
+2. [Medium Problems 🟠](./Medium)
+3. [Hard Problems 🔴](./Hard)
 
 ## How to Run Solutions ⚡
 
